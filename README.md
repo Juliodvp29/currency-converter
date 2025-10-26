@@ -45,7 +45,7 @@ Una aplicación web moderna para convertir divisas en tiempo real, construida co
 
 ## 🔑 APIs Utilizadas
 
-- **CurrencyLayer**: Para conversiones en tiempo real. Obtén tu clave API en [currencylayer.com](https://currencylayer.com/).
+- **CurrencyLayer**: Para conversiones en tiempo real. Obtén tu clave API en [exchangerate.host](https://exchangerate.host/).
 - **ExchangeRate-API**: Para datos históricos de tasas de cambio.
 
 ## 📖 Uso
